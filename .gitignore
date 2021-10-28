@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/Application.js
+src/ArrayFunctions.js
+src/Child.js
+src/Parent.js
+src/PasswordReset.js
+src/ProfilePage.js
+src/SignIn.js
+src/SignUp.js
+src/useForm.js
+src/firebase.js
